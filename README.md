@@ -1,3 +1,5 @@
+_*PUBLIC ARCHIVE AS OF 22-06-2024*_
+
 # spotify extractor
 
 A simple CLI tool written in Python for extracting Spotify playlist, album or track information!
